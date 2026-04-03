@@ -48,7 +48,7 @@ In the terminal perform the below command:<br><br>
 sudo apt update && sudo apt install python3 python3-pip python3-venv -y
 ```
 
-Download the latest asicseerpoolmonitorv2.py file from the "Releases" section: https://github.com/options4good/CK-Pool-Monitor-With-Live-Share-Activity/releases<br><br>
+Download the latest asicseerpoolmonitorv2.py file from the "Releases" section: https://github.com/options4good/ASICseer-Pool-Monitor-With-Live-Share-Activity/releases<br><br>
 
 Start the application from the terminal running the below command:
 
