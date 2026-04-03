@@ -22,7 +22,7 @@ Monitors the activity of ASICseer Pool by parsing and displaying advanced operat
 <b>Performance =</b> total hashrate the pool is receiving from miner(s).<br><br>
 
 <h3>SHARES section:</h3>
-<b>Status =</b> number of total accepted and rejected shares submitted to the pool.<br>
+<b>Status =</b> number of total accepted and rejected shares submitted to the pool. Rejection rate in percentage.<br>
 <b>SPS =</b> number of total shares per second submitted to the pool.<br>
 <b>Effort =</b> the amount of work your miners have put in relative to the statistical average to solve a block.<br><br>
 
